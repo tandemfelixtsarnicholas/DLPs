@@ -1,0 +1,5 @@
+Handwritten Text Data
+https://www.kaggle.com/drhouse3/iam-handwritten
+
+Navigation Data
+https://www.kaggle.com/nuxhoult/words-text
