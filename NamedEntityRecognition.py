@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 20 22:11:31 2020
-
-@author: hi
-"""
-
 import numpy as np 
 import pandas as pd
 import tensorflow as tf
